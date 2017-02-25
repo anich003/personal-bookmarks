@@ -2,6 +2,8 @@
 A list of interesting links or articles I want to remember and access anywhere
 
 ## Current courses
+### Need to complete these courses ASAP
+### Ideally, before March!
 ### Udemy
 http://bit.ly/2lzG6w5 - Python Megacourse (Build 10 Projects)
 

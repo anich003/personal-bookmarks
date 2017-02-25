@@ -1,0 +1,2 @@
+Hello Git!
+From the other side of an add!
