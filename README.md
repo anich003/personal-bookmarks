@@ -11,9 +11,12 @@ http://bit.ly/2l46jkN - AWS Architect Certification
 
 http://bit.ly/2mpihXh - Linux Basics via tutorialLinux@youtube
 
+http://bit.ly/2mc60sI - Machine Learning Self Starter by Elite Data Science
 
 ## Data Visualization
 http://www.datamake.io - I like his visualizations, mission and philosophy
+
+http://bit.ly/2lisow2 - Ten Simple Rules for Better Figures (rec'd JVDP)
 
 ## Programming Puzzles
 http://cryptopals.com - Intro to Basic Cryptography
@@ -24,3 +27,13 @@ https://projecteuler.net - Basic programming problems (language agnostic)
 https://www.secondspectrum.com - sports data analysis/intelligence
 
 https://www.pathai.com - convnets for digital pathology
+
+## Machine Learning
+http://bit.ly/2lUWkQC - Keras CNN tutorial
+
+
+## Deep Learning Frameworks
+http://bit.ly/2lUWkQC - Keras, High Level interface to Theano or TensorFlow
+
+## Bioinformatics
+http://bit.ly/2lavqHu - GATK Tutorial on Variant Calls from BAM files
