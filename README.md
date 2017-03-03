@@ -18,6 +18,7 @@ http://www.datamake.io - I like his visualizations, mission and philosophy
 
 http://bit.ly/2lisow2 - Ten Simple Rules for Better Figures (rec'd JVDP)
 
+
 ## Programming Puzzles
 http://cryptopals.com - Intro to Basic Cryptography
 
@@ -28,12 +29,17 @@ https://www.secondspectrum.com - sports data analysis/intelligence
 
 https://www.pathai.com - convnets for digital pathology
 
+# Data analysis
+http://jupyter.org - Jupyter.org, includes a simple intro to Apache Spark
+
 ## Machine Learning
 http://bit.ly/2lUWkQC - Keras CNN tutorial
 
 
 ## Deep Learning Frameworks
 http://bit.ly/2lUWkQC - Keras, High Level interface to Theano or TensorFlow
+
+http://bit.ly/2jNkM3O - CUDA tutorial
 
 ## Bioinformatics
 http://bit.ly/2lavqHu - GATK Tutorial on Variant Calls from BAM files
