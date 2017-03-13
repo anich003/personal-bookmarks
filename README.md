@@ -13,6 +13,10 @@ http://bit.ly/2mpihXh - Linux Basics via tutorialLinux@youtube
 
 http://bit.ly/2mc60sI - Machine Learning Self Starter by Elite Data Science
 
+http://bit.ly/2nqUTsK - Software Carpentry Software Versioning
+
+http://bit.ly/2mSu8k0 - Torch tutorials
+
 ## Data Visualization
 http://www.datamake.io - I like his visualizations, mission and philosophy
 
@@ -43,3 +47,6 @@ http://bit.ly/2jNkM3O - CUDA tutorial
 
 ## Bioinformatics
 http://bit.ly/2lavqHu - GATK Tutorial on Variant Calls from BAM files
+
+# People
+http://bit.ly/2mCWxLs - Jake van Der Plaas blog archive
