@@ -17,6 +17,9 @@ http://bit.ly/2nqUTsK - Software Carpentry Software Versioning
 
 http://bit.ly/2mSu8k0 - Torch tutorials
 
+## Utilities
+https://regex101.com - Interactive and instructive REGEX web tester
+
 ## Data Visualization
 http://www.datamake.io - I like his visualizations, mission and philosophy
 
@@ -27,6 +30,8 @@ http://bit.ly/2lisow2 - Ten Simple Rules for Better Figures (rec'd JVDP)
 http://cryptopals.com - Intro to Basic Cryptography
 
 https://projecteuler.net - Basic programming problems (language agnostic)
+
+http://codewars.com - Codewars for simple/complex problem solving with rank!
 
 ## Companies
 https://www.secondspectrum.com - sports data analysis/intelligence
