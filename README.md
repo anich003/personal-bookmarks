@@ -4,21 +4,34 @@ A list of interesting links or articles I want to remember and access anywhere
 ## Current courses
 ### Need to complete these courses ASAP
 ### Ideally, before March!
-### Udemy
+## Udemy
 http://bit.ly/2lzG6w5 - Python Megacourse (Build 10 Projects)
 
 http://bit.ly/2l46jkN - AWS Architect Certification
 
+http://bit.ly/2mNdQWV - AWS Developer Certification
+
+## Youtube
+
 http://bit.ly/2mpihXh - Linux Basics via tutorialLinux@youtube
 
-http://bit.ly/2mc60sI - Machine Learning Self Starter by Elite Data Science
+http://bit.ly/2mc60sI - Machine Learning Self Starter by Elite
+
+## Data Science
 
 http://bit.ly/2nqUTsK - Software Carpentry Software Versioning
 
 http://bit.ly/2mSu8k0 - Torch tutorials
 
+## Educative.io
+http://bit.ly/2mIPvAk - Python 201 Intermediate python
+
+
+
 ## Utilities
 https://regex101.com - Interactive and instructive REGEX web tester
+
+http://bit.ly/2n8gauA - Jupyter notebook themes
 
 ## Data Visualization
 http://www.datamake.io - I like his visualizations, mission and philosophy
@@ -38,7 +51,7 @@ https://www.secondspectrum.com - sports data analysis/intelligence
 
 https://www.pathai.com - convnets for digital pathology
 
-# Data analysis
+## Data analysis
 http://jupyter.org - Jupyter.org, includes a simple intro to Apache Spark
 
 ## Machine Learning
@@ -53,5 +66,9 @@ http://bit.ly/2jNkM3O - CUDA tutorial
 ## Bioinformatics
 http://bit.ly/2lavqHu - GATK Tutorial on Variant Calls from BAM files
 
-# People
+## People
 http://bit.ly/2mCWxLs - Jake van Der Plaas blog archive
+
+# Project Ideas
+- bitly CLI/daemon for link shortening in python
+- autovenn
