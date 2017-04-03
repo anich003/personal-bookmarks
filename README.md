@@ -30,6 +30,8 @@ http://bit.ly/2nqUTsK - Software Carpentry Software Versioning
 
 http://bit.ly/2n8gauA - Jupyter notebook themes
 
+http://bit.ly/2o0PiwW - Ryan's tutorials (Linux, Regex, Bash Scripting)
+
 ## Data Visualization
 http://www.datamake.io - I like his visualizations, mission and philosophy
 
